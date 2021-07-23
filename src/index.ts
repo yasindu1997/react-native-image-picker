@@ -10,7 +10,7 @@ const DEFAULT_OPTIONS: ImageLibraryOptions & CameraOptions = {
   maxWidth: 0,
   maxHeight: 0,
   includeBase64: false,
-  cameraType: 'back',
+  cameraType: 'front',
   selectionLimit: 1,
   saveToPhotos: false,
   durationLimit: 0,
